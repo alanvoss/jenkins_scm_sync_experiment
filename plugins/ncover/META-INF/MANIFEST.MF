@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: aruna
+Build-Jdk: 1.6.0_17
+Extension-Name: ncover
+Implementation-Title: ncover
+Implementation-Version: 0.3
+Short-Name: ncover
+Long-Name: NCover plugin
+Url: http://wiki.hudson-ci.org/display/HUDSON/NCover+Plugin
+Plugin-Version: 0.3
+Hudson-Version: 1.319
+Plugin-Developers: Michael Rooney:mcrooney:
+
